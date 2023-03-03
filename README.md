@@ -1,5 +1,5 @@
 # PT_Perocillo
-# Perocillo's Projet
+# Perocillo's Project
 Managing the README.md file
 
 ## Author
@@ -11,5 +11,4 @@ printf( 'Hello World');
 How to install Git
 1.Download the Zip file.
 
-commit 1 
-commit 2
+new commit
