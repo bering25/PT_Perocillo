@@ -12,4 +12,3 @@ How to install Git
 1.Download the Zip file.
 
 commit 1 
-commit 2
